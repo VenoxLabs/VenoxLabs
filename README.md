@@ -1,16 +1,21 @@
-## Hi there 👋
+<p align="center">
+  <img src="./header.svg" alt="VenoxLabs" width="100%">
+</p>
 
-<!--
-**VenoxLabs/VenoxLabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Digitale Lösungen aus der Schweiz.</b><br>
+  Software, Systeme und Automatisierung, die im Alltag funktionieren.
+</p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Fokus
+
+- Web und Software, die wirkt
+- Industrielle Steuerungen und Automatisierung
+- Hardware, Elektronik und 3D-Druck
+- Selbstgehostete Infrastruktur
+
+### Kontakt
+
+- Web: [techwirth.ch](https://techwirth.ch)
