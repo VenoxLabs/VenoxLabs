@@ -11,9 +11,9 @@
 
 ### Fokus
 
-- Web und Software, die wirkt
 - Industrielle Steuerungen und Automatisierung
 - Hardware, Elektronik und 3D-Druck
+- Web und Software
 - Selbstgehostete Infrastruktur
 
 ### Kontakt
